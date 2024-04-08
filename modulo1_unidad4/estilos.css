@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: #ffffff;
+    background-color: #3d84b487;
+    text-align: center;
+    padding: 0.5rem 0rem;
+}
+
+h4{
+    color: #607D8B;
+}
+
+.footer {
+    background-color: #fff8a5;
+    text-align: center;
+    padding: 0.5rem 0;
+}
